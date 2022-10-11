@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["var.scss"],"sourcesContent":["$blue: #2e90d1;\r\n$purple: #78258d;\r\n$grey: #585858;\r\n$black: #232323;\r\n$red: #BE1C1F;\r\n$orange: #C55616;\r\n$yellow: #D4AC00;\r\n$green: #1CBE2B;"],"file":"var.css"}

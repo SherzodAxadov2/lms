@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import './lib/fonts.scss';
+@import './lib/colors.scss';
+@import './lib/grid.scss';
+@import './lib/mixins.scss';
+@import './lib/reset.scss';
+@import './lib/class.scss';
+
+body{
+    font-family: 'medium';
+}

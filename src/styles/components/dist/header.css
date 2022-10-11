@@ -1,0 +1,48 @@
+.header {
+  padding: 25px 50px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #efefff;
+}
+
+.header .logo {
+  margin-right: 55px;
+}
+
+.header__menu {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.header__menu span,
+.header__menu a {
+  padding: 10px 15px;
+  font-size: 16px;
+  font-family: 'semibold';
+  display: inline-block;
+  line-height: 24px;
+  color: #333;
+  cursor: pointer;
+}
+
+.header__menu span:hover,
+.header__menu a:hover {
+  color: #78258d;
+}
+
+.header__menu span:active,
+.header__menu a:active {
+  padding-bottom: 8px;
+  border-bottom: 2px solid #78258d;
+}
+
+.header__dropdown {
+  display: none;
+}
+
+.header .btn {
+  margin-left: auto;
+}
+
+/*# sourceMappingURL=header.css.map */
